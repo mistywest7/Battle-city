@@ -1,5 +1,8 @@
 import pygame
 import random
-k
+
+pygame.init()
+
+
 
 
